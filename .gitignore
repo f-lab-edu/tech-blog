@@ -1,0 +1,11 @@
+## VS Code
+.vscode
+
+## Node.js
+node_modules
+
+## .env
+.env
+
+## dist
+dist
